@@ -1,0 +1,111 @@
+.upper{
+    background-image: url(images/donation3.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height:60%;
+
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+#u1{
+    font-size: 60px;
+    text-align: center;
+    color: red;
+}
+#u2{
+    text-align: center;
+    color: white;
+}
+#u3{
+    text-decoration: none;
+    background-color: crimson;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 45%; 
+}
+
+#u4{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+#u5{
+    text-align: center;
+    color: black;
+}
+
+#u6{
+    display: flex;
+    text-align:center;
+    
+    
+}
+.u7{
+    width: 450px;
+    height: 50px;
+    margin-right: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-right: 5px;
+    box-shadow: 5px 4px 8px 4px red, 0 6px 20px 0 orange;
+    text-align: center;
+}
+#u8{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#u9{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+#u10{
+    text-align: center;
+    color: black;
+}
+
+#u11{
+    display: flex;
+    margin-bottom: 15px;
+    
+    
+}
+
+.u12{
+    width: 40%;
+    margin-right: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-right: 5px;
+    
+}
+.b1{
+    box-shadow: 5px 4px 8px  magenta, 0 6px 20px 0 blue;
+    background-color: bisque;
+    
+}
+.b2{
+    box-shadow: 5px 4px 8px  blueviolet, 0 6px 20px 0 orange;
+    background-color: blanchedalmond;
+}
+.b3{
+    box-shadow: 5px 4px 8px  violet, 0 6px 20px 0 purple;
+    background-color: cyan;
+}
+#u13{
+    text-align: center;
+    background-color: black;
+    font-size: 40px;
+    color: white;
+}
